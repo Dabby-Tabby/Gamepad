@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Gamepad"
+      name = "Gamepad">
+      <FileRef
+         location = "group:Gamepad.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:Gamepad"
+         name = "Gamepad">
+         <FileRef
+            location = "group:GamepadApp.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MultipeerManager.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:Extensions"
+            name = "Extensions">
+            <FileRef
+               location = "group:Color+Hex.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Components"
+            name = "Components">
+            <FileRef
+               location = "group:DPad.swift">
+            </FileRef>
+            <FileRef
+               location = "group:LiquidCapsuleButtonStyle.swift">
+            </FileRef>
+            <FileRef
+               location = "group:BackgroundView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SelectStart.swift">
+            </FileRef>
+            <FileRef
+               location = "group:LiquidGlassButtonStyle.swift">
+            </FileRef>
+            <FileRef
+               location = "group:GyroManager.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:ContentView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:GamepadReceiver"
+      name = "GamepadReceiver">
+      <Group
+         location = "group:GamepadReceiver"
+         name = "GamepadReceiver">
+         <FileRef
+            location = "group:MultipeerManager.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Assets.xcassets">
+         </FileRef>
+         <FileRef
+            location = "group:GamepadReceiverApp.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ContentView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:GamepadReceiver.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
