@@ -1,4 +1,4 @@
-# 🎮 Gamepad + macOS Receiver
+# 🎮 iOS Gamepad + macOS Receiver
 Turn your iPhone into a wireless game controller for your Mac. 
 Built with SwiftUI’s latest liquid glass materials, CoreMotion for gyroscope controls, and Multipeer Connectivity for multiplayer.
 
