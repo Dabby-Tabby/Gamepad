@@ -29,9 +29,10 @@ Play games like Mario Kart with up to 4 iPhones at once — no extra hardware ne
   
 ### 💻 macOS Receiver App
 
-  Receives button/gyro events via Multipeer Connectivity
-    
-  Visualizes held keys in a live key grid
+  Literally just receives button/gyro events via Multipeer Connectivity
+
+  (also has a UI for showing whats clicked, but it's pretty much just a receiver app)    
+  
   
 ### 👥 Multiplayer Support
 
