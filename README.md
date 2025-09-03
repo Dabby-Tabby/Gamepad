@@ -3,6 +3,16 @@ Turn your iPhone into a wireless game controller for your Mac. Built with SwiftU
 
 Play games like Mario Kart with up to 4 iPhones at once — no extra hardware needed! :)
 
+<p align="center">
+  <img src="Docs/uiDemo.gif" width="500" />
+</p>
+
+<p align="center">
+  <img src="Docs/greenUI.PNG" width="200" />
+  <img src="Docs/blueUI.PNG" width="200" />
+  <img src="Docs/orangeUI.PNG" width="200" />
+  <img src="Docs/purpleUI.PNG" width="200" />
+</p>
 
 ## ✨ Features
 
